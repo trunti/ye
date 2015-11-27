@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "group.h"
 using namespace std;
 int main()
 {
